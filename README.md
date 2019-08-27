@@ -16,3 +16,7 @@ Download a copy of the Power BI Field Finder.pbix to you computer and open it.  
 5.  Click the Refresh button, and find your fields on the following pages!
 
 6.  When you make changes to your pbix file, re-do steps 1 to 5 to reflect your changes.
+
+# Sample File
+The pbix used in the sample file is based on the Power BI Desktop August update, which can be found here: https://github.com/microsoft/powerbi-desktop-samples/tree/master/2019
+
