@@ -2,6 +2,8 @@
 
 Use the Power BI Field Finder to understand where in your report your columns and measures are being used.  Use this tool together with DAX Studio and the Power BI Helper to get a complete picture of your model and report.  Keep in mind this tool only shows you where fields are used in visuals and filters, not in relationships or measures.
 
+Disclaimer:  This is version 1.  Please let me know if you run into any errors with it.
+
 # Instructions
 Download the Power BI Field Finder.pbit template file.  
 
