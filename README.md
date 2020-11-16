@@ -20,6 +20,8 @@ The pbix used in the sample pbix file is based on the Power BI Desktop August 20
 - If your table or field names contain parentheses or periods, the output table and field names will be wrong.  Fix currently in progress.
 
 # Latest Changes
+2020/11/16 - Replaced the old HTML viewer with the new one by Daniel Marsh-Patrick (https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA200001930). Incorporated Ried Haven's suggestion of a tooltip on the page thumbnails. Included the PowerBI.tips page backgrounds.
+
 1.1 - No longer necessary to create a zip file, thanks to code contributions from Marco Russo (https://twitter.com/marcorus/status/1167486794990084096).
 
 1.0 - First version
