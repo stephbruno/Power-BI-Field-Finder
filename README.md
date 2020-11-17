@@ -13,6 +13,8 @@ Download the Power BI Field Finder.pbit template file.
 
 3.  When you make changes to your pbix file, save it and refresh the Power BI Field Finder.  If you'd like to analyze a different report, update the parameter to the file path and filename of another pbix file.
 
+Further information can be found in this blog post: https://data-witches.com/2020/11/17/power-bi-field-finder/
+
 # Sample File
 The pbix used in the sample pbix file is based on the Power BI Desktop August 2019 update, which can be found here: https://github.com/microsoft/powerbi-desktop-samples/tree/master/Monthly%20Desktop%20Blog%20Samples/2019
 
