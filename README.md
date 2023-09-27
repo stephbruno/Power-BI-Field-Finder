@@ -16,7 +16,8 @@ Download the Power BI Field Finder.pbit template file.
 Further information can be found in this blog post: https://data-witches.com/2020/11/17/power-bi-field-finder/
 
 # Sample File
-The pbix used in the sample pbix file is based on the Power BI Desktop August 2019 update, which can be found here: https://github.com/microsoft/powerbi-desktop-samples/tree/master/Monthly%20Desktop%20Blog%20Samples/2019
+The pbix used in the original sample pbix file is based on the Power BI Desktop August 2019 update, which can be found here: https://github.com/microsoft/powerbi-desktop-samples/tree/master/Monthly%20Desktop%20Blog%20Samples/2019.
+For the new version with multiple reports and a shared dataset, see the Adventure Works and Sales Report files.
 
 # Known Issues
 - 
