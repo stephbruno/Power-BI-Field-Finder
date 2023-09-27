@@ -1,6 +1,6 @@
 # Power BI Field Finder
 
-Use the Power BI Field Finder to understand where in your reports your columns and measures are being used.  Be careful before deleting columns and measures, especially if your model is being used in the service by other reports! Update: to analyze multiple reports and the associated dataset, use the new Field Finder (with data model) files!
+Use the Power BI Field Finder to understand where in your reports your columns and measures are being used and find the ones that aren't being used at all.  Be careful before deleting columns and measures, especially if your model is being used in the service by other reports! Update: to analyze multiple reports and the associated dataset, use the new Field Finder (with data model) files!
 
 Disclaimer:  This is a side project and is not perfect.  Please let me know if you run into any errors with it.
 
